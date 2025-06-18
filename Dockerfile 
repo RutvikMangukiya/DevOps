@@ -1,0 +1,5 @@
+# Use syntax version 1.3-labs for Dockerfile
+# syntax=docker/dockerfile:1.3-labs
+ 
+# Use the Ubuntu 20.04 image as the base image
+FROM ubuntu:20.04
